@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Smartarget\\WhatsappContactUs\\Providers/WhatsappContactUsServiceProvider"
+                "Smartarget\\WhatsappContactUs\\Providers\\WhatsappContactUsServiceProvider"
             ],
             "aliases": { }
         }

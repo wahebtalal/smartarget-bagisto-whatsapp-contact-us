@@ -27,10 +27,6 @@ php artisan optimize:clear
 php artisan storage:link
 ```
 
-Run below command to publish config and additional assets files to make it compatible with Bagisto backend theme
-
-	php artisan vendor:publish --provider='Smartarget\WhatsappContactUs\Providers\WhatsappContactUsServiceProvider'
-
 Go to Whatsapp tab in main menu and configure app!
 
 ### Install with package folder
@@ -49,10 +45,6 @@ Smartarget\WhatsappContactUs\Providers\WhatsappContactUsServiceProvider::class
 composer dump-autoload
 php artisan optimize:clear
 php artisan storage:link
-```
-5. After that run below command to publish config and additional assets files to make it compatible with Bagisto backend theme
-```
-php artisan vendor:publish --provider='Smartarget\WhatsappContactUs\Providers\WhatsappContactUsServiceProvider'
 ```
 
 Go to Whatsapp tab in main menu and configure app!

@@ -20,6 +20,6 @@
             "aliases": { }
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }

@@ -1,0 +1,13 @@
+{
+    "name": "bereg/bagisto-whatsapp",
+    "description": "Allow customers to contact you using Whatsapp",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Smartarget",
+            "email": "Support@smartarget.online"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -1,7 +1,6 @@
 {
     "name": "smartarget/bagisto-whatsapp-contact-us",
     "description": "Allow customers to contact you using Whatsapp",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +16,7 @@
             "providers": [
                 "Smartarget\\WhatsappContactUs\\Providers\\WhatsappContactUsServiceProvider"
             ],
-            "aliases": { }
+            "aliases": {}
         }
     },
     "minimum-stability": "dev",

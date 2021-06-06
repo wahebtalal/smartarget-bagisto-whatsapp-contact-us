@@ -8,7 +8,7 @@ This extension integrates [Smartarget Whatsapp - Contact Us](https://smartarget.
 
 ## Installation
 
-### Install with composer
+### Method 1 - Install with composer
 
 Require this package with Composer
 
@@ -29,7 +29,7 @@ php artisan storage:link
 
 Go to Whatsapp tab in main menu and configure app!
 
-### Install with package folder
+### Method 2 - Install with package folder
 1. Unzip all the files to **packages/Smartarget/WhatsappContactUs**.
 
 2. Goto composer.json file inside the Bagisto root directory then add the following line under 'psr-4'
